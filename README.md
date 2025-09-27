@@ -1,4 +1,4 @@
-# PythonKafkaExample
+# Python Kafka Example
 # Kafka Message Processing Pipeline
 
 ## Overview
